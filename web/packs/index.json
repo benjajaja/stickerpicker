@@ -1,0 +1,6 @@
+{
+  "packs": [
+    "matrix.json"
+  ],
+  "homeserver_url": "https://qdice.wtf"
+}
